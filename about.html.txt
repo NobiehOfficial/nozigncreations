@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nozign Creations - About</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <a href="index.html"><img src="img/logo.png" alt="Nozign Creations Logo"></a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="about">
+        <div class="about-content">
+            <h2>About Us</h2>
+            <p>Welcome to Nozign Creations, your one-stop solution for all your creative design needs. We specialize in graphic design, photo and video editing, and product brand design. Our team of skilled professionals is dedicated to delivering high-quality, innovative solutions that bring your ideas to life.</p>
+            <img src="img/about-pic.jpg" alt="About Nozign Creations">
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Nozign Creations. All rights reserved.</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

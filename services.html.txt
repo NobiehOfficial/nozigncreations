@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nozign Creations - Services</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <a href="index.html"><img src="img/logo.png" alt="Nozign Creations Logo"></a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="services">
+        <div class="services-content">
+            <h2>Our Services</h2>
+            <div class="service-item">
+                <img src="img/service-icon-1.png" alt="Graphic Design Icon">
+                <h3>Graphic Design</h3>
+                <p>We create visually stunning graphics that capture attention and convey your message effectively.</p>
+            </div>
+            <div class="service-item">
+                <img src="img/service-icon-2.png" alt="Photo Editing Icon">
+                <h3>Photo Editing</h3>
+                <p>Our photo editing services enhance your images to make them stand out and tell a story.</p>
+            </div>
+            <div class="service-item">
+                <img src="img/service-icon-3.png" alt="Video Editing Icon">
+                <h3>Video Editing</h3>
+                <p>We offer professional video editing services to create compelling visual stories.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Nozign Creations. All rights reserved.</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+/* Responsive Styles */
+@media (max-width: 768px) {
+    header .nav-links {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .hero-content h1 {
+        font-size: 36px;
+    }
+
+    .hero-content p {
+        font-size: 18px;
+    }
+
+    .about-content img, .portfolio-item img, .blog-item img {
+        margin-bottom: 10px;
+    }
+
+    .portfolio-item, .blog-item {
+        margin-bottom: 20px;
+    }
+
+    .contact-content form {
+        gap: 10px;
+    }
+
+    .contact-content form label {
+        font-size: 16px;
+    }
+
+    .contact-content form input, .contact-content form textarea {
+        font-size: 14px;
+    }
+
+    .contact-content form button {
+        font-size: 16px;
+    }
+}

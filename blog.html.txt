@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nozign Creations - Blog</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <a href="index.html"><img src="img/logo.png" alt="Nozign Creations Logo"></a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="blog">
+        <div class="blog-content">
+            <h2>Latest News</h2>
+            <div class="blog-item">
+                <img src="img/blog-1.jpg" alt="Blog Post 1">
+                <h3>Design Trends in 2023</h3>
+                <p>Explore the latest design trends and how they can impact your brand.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+            <div class="blog-item">
+                <img src="img/blog-2.jpg" alt="Blog Post 2">
+                <h3>The Importance of Branding</h3>
+                <p>Learn why branding is crucial for your business success.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+            <div class="blog-item">
+                <img src="img/blog-3.jpg" alt="Blog Post 3">
+                <h3>Tips for Effective Video Editing</h3>
+                <p>Discover tips and tricks for creating compelling video content.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Nozign Creations. All rights reserved.</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nozign Creations - Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <a href="index.html"><img src="img/logo.png" alt="Nozign Creations Logo"></a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="portfolio">
+        <div class="portfolio-content">
+            <h2>Our Work</h2>
+            <div class="portfolio-item">
+                <img src="img/portfolio-1.jpg" alt="Project 1">
+                <h3>Project Title 1</h3>
+                <p>Graphic Design, Branding</p>
+                <a href="https://photos.app.goo.gl/Q7cztYouokv1w3qU6" target="_blank" class="btn">View Project</a>
+            </div>
+            <div class="portfolio-item">
+                <img src="img/portfolio-2.jpg" alt="Project 2">
+                <h3>Project Title 2</h3>
+                <p>Photo Editing</p>
+                <a href="https://photos.app.goo.gl/Q7cztYouokv1w3qU6" target="_blank" class="btn">View Project</a>
+            </div>
+            <div class="portfolio-item">
+                <img src="img/portfolio-3.jpg" alt="Project 3">
+                <h3>Project Title 3</h3>
+                <p>Video Editing, Motion Graphics</p>
+                <a href="https://photos.app.goo.gl/Q7cztYouokv1w3qU6" target="_blank" class="btn">View Project</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Nozign Creations. All rights reserved.</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
